@@ -8,6 +8,7 @@ published_at: 2023-12-02 00:00
 ---
 
 本稿は[Angular Advent Calendar 2023](https://qiita.com/advent-calendar/2023/angular)の2日目の記事です。
+1日目の記事は[kasaharu](https://qiita.com/kasaharu)さんの[2023 年に入った Angular のさまざまなアップデート](https://kasaharu.hatenablog.com/entry/20231201/1701381600)でした。
 
 # 概要
 
@@ -143,6 +144,8 @@ Angular v17から追加された組み込み制御フローとその背景につ
 
 今年も残り短くなってきましたが、健康に気をつけてお過ごしください。
 それでは良いAngularライフを👋
+
+[Angular Advent Calendar 2023](https://qiita.com/advent-calendar/2023/angular)の3日目は[nontangent](https://qiita.com/nontangent)さんです。
 
 # 参考
 
